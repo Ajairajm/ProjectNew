@@ -25,8 +25,12 @@ public class Company extends Employee {
 			
 		}
 	 	
+	 	public void dev() {
+ 			System.out.println("sivaji the boss");
+	 	}
 	 	public void test() {
 	 			System.out.println("motta boss");
+
 		}
 
 
