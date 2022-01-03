@@ -24,6 +24,10 @@ public class Company extends Employee {
 			
 			
 		}
+	 	
+	 	public void test() {
+	 			System.out.println("motta boss");
+		}
 
 
 }
